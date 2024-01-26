@@ -1,0 +1,13 @@
+"Games"
+{
+	"NeotokyoSource"
+	{
+		"Offsets"
+		{
+			"GetChatPrefix"
+			{
+				"windows"   "104"
+			}
+		}
+	}
+}
